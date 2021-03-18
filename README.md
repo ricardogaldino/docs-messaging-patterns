@@ -1,2 +1,2 @@
-# docs-messaging-patterns
-Messaging Patterns
+# Messaging Patterns
+https://www.enterpriseintegrationpatterns.com/patterns/messaging/
